@@ -111,6 +111,9 @@ Vehicle Fault Detection Project/
 │
 └── README.md
 ```
+
+---
+
 ## ⚙ Installation & Setup
 
 Follow these steps to run the project locally.
